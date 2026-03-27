@@ -6,7 +6,7 @@ timer countdown, sound effects, dark mode, animations, and high-score
 tracking using localStorage.
 
 🚀 Live Demo\
-https://rutujapatil1299-maker.github.io/memory-game-pro
+https://rutujapatil1299-maker.github.io/MEMORY_GAME
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ Steps:
 
 Your project will be live at:
 
-https://rutujapatil1299-maker.github.io/memory-game-pro
+https://rutujapatil1299-maker.github.io/MEMORY_GAME
 
 ------------------------------------------------------------------------
 
